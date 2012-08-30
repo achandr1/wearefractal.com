@@ -167,7 +167,7 @@ define(function() {
           lineno: 18,
           filename: __jade[0].filename
         });
-        buf.push("<a>");
+        buf.push('<a target="_blank" href="http://twitter.com/wearefractal">');
         __jade.unshift({
           lineno: undefined,
           filename: __jade[0].filename
