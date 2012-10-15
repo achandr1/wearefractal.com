@@ -1,7 +1,7 @@
 path = require 'path'
 
 module.exports = app =
-  name:       'hotplate'
+  name:       'wearefractal'
   paths:
     root:     path.resolve '.'
     app:      path.resolve './app'
